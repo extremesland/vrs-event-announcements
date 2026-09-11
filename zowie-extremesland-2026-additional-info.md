@@ -90,7 +90,7 @@ The Tournament Organiser may expand a published Open Qualifier cap as needed / w
 | South East Asia | Rest of South East Asia Open Qualifier | October 17–18, 2026 | Online | 1 to Closed Qualifier |
 | Mongolia | Closed Qualifier | October 18–22, 2026 | LAN, Mongolia | 4 to Closed Qualifier Finals |
 | Mongolia | Closed Qualifier Finals | October 22–25, 2026 | LAN, Mongolia | 1 to Main Event |
-| Japan & South Korea | 3rd Place Decider | October 24, 2026 | Online | 0 |
+| Japan & South Korea | 3rd Place Decider | October 25, 2026 | Online | 0 |
 | Japan & South Korea | Closed Qualifier | October 24, 2026 | Online | 1 to Main Event |
 | South East Asia | 4th Place Decider | October 24, 2026 | Online | 0 |
 | China | Open Qualifier #2 | October 24 – November 1, 2026 | Online | 2 to Closed Qualifier |
